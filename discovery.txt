@@ -1,0 +1,19 @@
+Q1 - profit per order the g between 800 1200 drops a lot let reasearch why 
+    cause of free shipping 
+
+    Q1.1- if i does not decrease the profit even with that dip does it increase?
+        monthly order per customer with free = .15x no free
+        avg order value free = 2,67x no free 
+        avg spent free = 3,01 no free 
+        avg profit = 3,06 no free
+
+        after 1st free shipping costumer is almost 2x more valueble 
+
+
+        GOOOD FIRST GOOD INSIGHT 
+
+Q2 High value customers 
+
+Q3 % of custores taht give 50% of profit and 50 % of custumers give x% of profit
+
+Q4 are loyar customres more valulueble
