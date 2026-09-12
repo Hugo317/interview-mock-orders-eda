@@ -1,4 +1,11 @@
 # EDA Case study
+
+## Sample findings
+
+![Orders and revenue per month](images/business_trajectory_0.png)
+
+![Average profit margin by country](images/country_profitability_0.png)
+
 Your task is to find interesting insights in the data that provides value to the stakeholders and visualize and communicate your insights in a clear manner. Follow to the PPDAC cycle when analyzing and visualizing the data. When you find an insight in a plot you write down key words that follows the setup-conflict-resolution framework.
 
 ### Examples of questions that could be intresting to investigate:
